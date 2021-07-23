@@ -41,6 +41,6 @@ Follow me on [Github](http://t.me/satyanandatripathi) Please 🥺 👉👈
 
 [Satyanand](http://www.github.com/satyanandatripathi)
 
-                      Also 
+       Also Thanks to
 
 [TeamDaisy](http://www.github.com/TeamDaisyx) for DaisyXMusic
