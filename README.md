@@ -22,13 +22,13 @@ Fork this DaisyXMusic-WFs repo
 
 go to ur fork repo link /settings/secrets/actions and add some secrets
 
-CREDS = The repo you created in 1st step (make it private always) (Don't use https://) (change the values of local.env)
+`CREDS = The repo you created in 1st step (make it private always) (Don't use https://) (change the values of local.env)`
 
-GitHubName = Ur github username
+`GitHubName = Ur github username`
 
-GitHubMail = Ur github email
+`GitHubMail = Ur github email`
 
-GH_TOKEN = Ur Github Personal Access Token
+`GH_TOKEN = Ur Github Personal Access Token`
 
 
 Now go to your WFs Repo and go to actions tab to see back-end process 🥰
