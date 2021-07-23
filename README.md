@@ -37,7 +37,7 @@ Follow me on [Github](http://t.me/satyanandatripathi) Please 🥺 👉👈
 
 # Credits
 
-[@TechiError](http://www.github.com/TechiError)
+[TechiError](http://www.github.com/TechiError)
 
 [Satyanand](http://www.github.com/satyanandatripathi)
 
