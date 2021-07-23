@@ -35,9 +35,12 @@ Now go to your WFs Repo and go to actions tab to see back-end process 🥰
 
 Follow me on [Github](http://t.me/satyanandatripathi) Please 🥺 👉👈
 
-Credits:- [@TechiError](http://www.github.com/TechiError)
-          [Satyanand](http://www.github.com/satyanandatripathi)
+# Credits
+
+[@TechiError](http://www.github.com/TechiError)
+
+[Satyanand](http://www.github.com/satyanandatripathi)
 
                       Also 
 
-          [TeamDaisy](http://www.github.com/TeamDaisyx) for DaisyXMusic
+[TeamDaisy](http://www.github.com/TeamDaisyx) for DaisyXMusic
