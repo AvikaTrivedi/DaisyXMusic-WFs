@@ -42,11 +42,12 @@ Follow me on [Github](http://t.me/satyanandatripathi) Please 🥺 👉👈
 
 # credits
 
-Credits:- [@TechiError](http://www.github.com/TechiError)
+Credits:-
 
-          [Satyanand](http://www.github.com/satyanandatripathi)
+[@TechiError](http://www.github.com/TechiError)
 
-                      Also 
+[Satyanand](http://www.github.com/satyanandatripathi)
 
-          [TeamDaisy](http://www.github.com/TeamDaisyx) 
-               for DaisyXMusic
+              Also 
+
+[TeamDaisy](http://www.github.com/TeamDaisyx) for DaisyXMusic
