@@ -1,13 +1,9 @@
 # DaisyXMusic-WFs
 Workflow server repo for DaisyXMusic mainly davloped for ultroid by sipak and edited for Daisy By Satyanand
 
-# How to use 
+# caution 
 
-Fuck off bitches not for noobs do all by yourself
-
-# DaisyXMusic-WFs
-Workflow server repo for DaisyXMusic mainly davloped for ultroid by sipak and edited for Daisy By Satyanand
-
+Copy with credits !! Noobs 
 
 # How to use 
 
