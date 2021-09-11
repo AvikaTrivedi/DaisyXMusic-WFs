@@ -1,6 +1,6 @@
 #mainly written by sipak pro for ultroid and edited by satyanand for daisyx
 
-name: DaisyXMusic Workflow
+name: tgvc Workflow
 
 on:
     push:
@@ -29,8 +29,8 @@ jobs:
        - name: cloning repo
          continue-on-error: true
          run: |
-           git clone https://${{ secrets.GitHubName }}:${{ secrets.GH_TOKEN }}@${{ secrets.CREDS }} daisyx
-       - name: Running Daisyx
+           git clone https://${{ secrets.GitHubName }}:${{ secrets.GH_TOKEN }}@${{ secrets.CREDS }} tgvc
+       - name: Running tgvc
          timeout-minutes: 350
          continue-on-error: true
          run: |
